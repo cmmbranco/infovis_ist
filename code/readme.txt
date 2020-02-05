@@ -1,4 +1,4 @@
-OBSOLETE
+THEME IS OBSOLETE, custom one used instead due to time issues.
 
 
 Thanks for downloading this theme!
