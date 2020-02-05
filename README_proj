@@ -1,0 +1,18 @@
+###Navigate to project folder:
+cd ~/path/to/folder/code
+
+###Open a shell in the above mentioned folder and launch the following instruction:
+
+python3 -m http.server
+
+
+
+###On the browser type:
+
+localhost:8000
+
+
+
+###Ready!
+
+###Fully tested on Google Chrome.
